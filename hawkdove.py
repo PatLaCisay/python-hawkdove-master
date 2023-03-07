@@ -2,11 +2,11 @@ from random import choice, randint
 from time import perf_counter
 from pylab import plot, show, legend
 
-STARTING_DOVES = 1000
-STARTING_HAWKS = 1000
+STARTING_DOVES = 500
+STARTING_HAWKS = 500
 STARTING_POPULATION = STARTING_HAWKS + STARTING_DOVES
 
-ROUNDS = 50
+ROUNDS = 100
 STARTING_ENERGY = 100
 
 
