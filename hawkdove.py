@@ -16,7 +16,7 @@ MAX_FOOD_PER_ROUND = 50
 ENERGY_REQUIRED_FOR_REPRODUCTION = 40	
 ENERGY_LOSS_FROM_FIGHTING = 500
 ENERGY = 5 
-RATIO = 0.2 #Modify this variables to get different results
+RATIO = 0.2 #Modify this variable to get different results
 
 """
 ECO equilibrium (two species cohexist)
